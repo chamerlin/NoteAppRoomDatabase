@@ -9,11 +9,12 @@ import android.os.Bundle;
 import android.view.View;
 
 public class SettingsActivity extends AppCompatActivity {
+
     Toolbar toolbar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
+        super.onCreate(savedInstanceState);;
 
         getSupportFragmentManager()
                 .beginTransaction()

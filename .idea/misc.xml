@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Sem 4/Assignment/NoteAppDatabase/app/src/main/res/drawable-v24/back.xml" value="0.221" />
+        <entry key="..\:/Sem 4/Assignment/NoteAppDatabase/app/src/main/res/drawable-v24/confirm.xml" value="0.221" />
+        <entry key="..\:/Sem 4/Assignment/NoteAppDatabase/app/src/main/res/drawable-v24/et_style.xml" value="0.221" />
+        <entry key="..\:/Sem 4/Assignment/NoteAppDatabase/app/src/main/res/drawable-v24/note.xml" value="0.221" />
+        <entry key="..\:/Sem 4/Assignment/NoteAppDatabase/app/src/main/res/drawable-v24/note_icon.xml" value="0.221" />
+        <entry key="..\:/Sem 4/Assignment/NoteAppDatabase/app/src/main/res/drawable-v24/todo.xml" value="0.221" />
+        <entry key="..\:/Sem 4/Assignment/NoteAppDatabase/app/src/main/res/drawable-v24/todo_icon.xml" value="0.221" />
+        <entry key="..\:/Sem 4/Assignment/NoteAppDatabase/app/src/main/res/layout/activity_add_note.xml" value="0.21822916666666667" />
+        <entry key="..\:/Sem 4/Assignment/NoteAppDatabase/app/src/main/res/layout/activity_main.xml" value="0.21822916666666667" />
+        <entry key="..\:/Sem 4/Assignment/NoteAppDatabase/app/src/main/res/layout/activity_settings.xml" value="0.21822916666666667" />
+        <entry key="..\:/Sem 4/Assignment/NoteAppDatabase/app/src/main/res/layout/fragment_notes.xml" value="0.21822916666666667" />
+        <entry key="..\:/Sem 4/Assignment/NoteAppDatabase/app/src/main/res/layout/fragment_settings.xml" value="0.21822916666666667" />
+        <entry key="..\:/Sem 4/Assignment/NoteAppDatabase/app/src/main/res/layout/fragment_todo.xml" value="0.21822916666666667" />
+        <entry key="..\:/Sem 4/Assignment/NoteAppDatabase/app/src/main/res/layout/list_item_bg.xml" value="0.21822916666666667" />
+        <entry key="..\:/Sem 4/Assignment/NoteAppDatabase/app/src/main/res/layout/preference_category_title.xml" value="0.21822916666666667" />
+        <entry key="..\:/Sem 4/Assignment/NoteAppDatabase/app/src/main/res/layout/toolbar_setting.xml" value="0.21822916666666667" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
